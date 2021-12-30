@@ -24,6 +24,7 @@
 ## My credo
 >_"If something can be automated, it must be automated"._ <br>
 _"No limits for excellence"._
+
 ### Favorite movie: ...
 
 ## Job status
@@ -55,7 +56,9 @@ Looking for a new, productive, stable and interesting job.
 ↓ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections below under construction._ ¯\\\_(ツ)\_/¯ ↓
 
 ## Skills and devtools
+
 ### Code develope tools:
+
 ### Graphics Design and Publishing:
 
 ## Code examples
