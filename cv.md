@@ -1,4 +1,5 @@
 # Valentine Garbuzenko (@NickFallman)
+![My CV image](./cv-pics/ProfilePhotoCZ.jpg)
 
 ## Contents
 * Contacts
