@@ -3,7 +3,7 @@
 ![My CV image](./cv-pics/ProfilePhotoCZ.jpg)
 
 ## Contents
-* Contacts <!-- https://nickfallman.github.io/rsschool-cv/cv#contacts -->
+* [Contacts](https://nickfallman.github.io/rsschool-cv/cv#contacts) <!-- https://nickfallman.github.io/rsschool-cv/cv#contacts -->
 * My credo
 * Job status
 * Milestones
@@ -51,7 +51,7 @@ Looking for a new, productive, stable and interesting job.
 
 **2014** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. Programming languages: C#. <br>Employer – Belfortex Ltd. (Belarus).
 
-**2015** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. AWS cloud operations. Programming languages: C#. <br>Employer – Belfortex Ltd. (Belarus).
+**2015** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. AWS cloud operations. Programming languages: C#. <br>Employer – BFL Ltd. (Belarus).
 
 ↓ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections below under construction._ ¯\\\_(ツ)\_/¯ ↓
 
@@ -98,9 +98,9 @@ todo: Andritz Belgosles RFID driveBOSS COSS (with links)
 ↑ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections above under construction._ ¯\\\_(ツ)\_/¯ ↑
 
 ## Graduation (including courses and training)
-- **1984-1991** Belarusian State University, Radiophysics and Electronics Department. <br>Specialization - _radiophysics_
-- **2009** Cisco Network Academy. <br>Course alumni - _CCNA Exploration 4.0_
-- **2010** Cisco Partner Education Connection. <br>Qualification (Pearson VUE exam) - _Cisco SMBAM 650-177, SMBENG 650-195_
+- **1984-1991** [Belarusian State University](https://bsu.by/), [Radiophysics and Electronics Department](https://rfe.bsu.by/). <br>Specialization - _radiophysics_
+- **2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - _CCNA Exploration 4.0_
+- **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - _Cisco SMBAM 650-177, SMBENG 650-195_
 
 ↓ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections below under construction._ ¯\\\_(ツ)\_/¯ ↓
 
