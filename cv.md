@@ -1,4 +1,5 @@
 # Valentine Garbuzenko (@NickFallman)
+
 ![My CV image](./cv-pics/ProfilePhotoCZ.jpg)
 
 ## Contents
@@ -11,6 +12,7 @@
 * Projects
 * Graduation
 * Languages
+***
 
 ## Contacts
 - Mobile: +375 29 7682306
@@ -46,9 +48,11 @@ Looking for a new, productive, stable and interesting job.
 
 **2009** Self-employed entrepreneur, Cisco Account Manager, Cisco Presales Engineer, Sales Manager. Trade in computer equipment. Website developing, brend developing, graphics design. <br>In cooperation with – LD Systems company (Belarus).
 
-↓ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections below under construction._ ¯\\\_(ツ)\_/¯ ↓
+**2014** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. Programming languages: C#. <br>Employer – Belfortex Ltd. (Belarus).
 
-_and so on..._
+**2015** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. AWS cloud operations. Programming languages: C#. <br>Employer – Belfortex Ltd. (Belarus).
+
+↓ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections below under construction._ ¯\\\_(ツ)\_/¯ ↓
 
 ## Skills and devtools
 ### Graphics Design and Publishing:
