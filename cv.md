@@ -55,11 +55,25 @@ Looking for a new, productive, stable and interesting job.
 ↓ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections below under construction._ ¯\\\_(ツ)\_/¯ ↓
 
 ## Skills and devtools
-### Graphics Design and Publishing:
 ### Code develope tools:
+### Graphics Design and Publishing:
 
 ## Code examples
 ### Asm i51 example:
+```
+; ╔═════════════════════════════════════════════════════════════╗
+; ║ Init ADC.                                                   ║
+; ╚═════════════════════════════════════════════════════════════╝
+ADC_Init:
+    clr   ADCCLK             ; Set external synchronization
+    setb  ADCDRDY            ; Enable analog input
+    mov   R6,#00100000b      ; Set background calibration mode
+    mov   R5,#10010000b      ; Set input data size (16)24 bit
+    mov   R4,#11000011b
+    acall S_Ctrl_write
+    acall S_Data24_read
+    ret
+```
 ### C# example:
 
 ## Projects
