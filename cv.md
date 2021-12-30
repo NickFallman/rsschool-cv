@@ -3,7 +3,7 @@
 ![My CV image](./cv-pics/ProfilePhotoCZ.jpg)
 
 ## Contents
-* Contacts
+* Contacts <!-- https://nickfallman.github.io/rsschool-cv/cv#contacts -->
 * My credo
 * Job status
 * Milestones
@@ -22,7 +22,7 @@
 - LinkedIn: [My Linkedin Page](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
 
 ## My credo
-_"If something can be automated, it must be automated"._ <br>
+>_"If something can be automated, it must be automated"._ <br>
 _"No limits for excellence"._
 ### Favorite movie: ...
 
@@ -59,8 +59,8 @@ Looking for a new, productive, stable and interesting job.
 ### Graphics Design and Publishing:
 
 ## Code examples
-### Asm i51 example:
 
+### Asm i51 example:
 ```
 ; ╔═════════════════════════════════════════════════════════════╗
 ; ║ Init ADC.                                                   ║
@@ -77,6 +77,17 @@ ADC_Init:
 ```
 
 ### C# example:
+```
+public static void LoadCamerasDb(List<CameraInfo> cameras)
+{
+    var NumberFormat = BelfortexFormats.GetNumberFormat();
+    var rows = BelfortexSql.SqlSelect("SELECT id FROM cameras");
+    foreach (var camera in (from DataRowView row in rows select new CameraInfo((int)row["id"], NumberFormat)))
+    {
+        cameras.Add(camera);
+    }
+}
+```
 
 ## Projects
 todo: Andritz Belgosles RFID driveBOSS COSS (with links)
