@@ -3,16 +3,15 @@
 ![My CV image](./cv-pics/ProfilePhotoCZ.jpg)
 
 ## Contents
-* [Contacts](https://nickfallman.github.io/rsschool-cv/cv#contacts)
-* [My credo](https://nickfallman.github.io/rsschool-cv/cv#my-credo)
-* [Job status](https://nickfallman.github.io/rsschool-cv/cv#job-status)
-* [Milestones](https://nickfallman.github.io/rsschool-cv/cv#milestones)
-* Skills and devtools <!--  -->
+* [Contacts](https://nickfallman.github.io/rsschool-cv/cv#contacts) <!-- https://nickfallman.github.io/rsschool-cv/cv#contacts -->
+* My credo
+* Job status
+* Milestones
+* Skills and devtools
 * Code examples
 * Projects
 * Graduation
 * Languages
-
 ***
 
 ## Contacts
