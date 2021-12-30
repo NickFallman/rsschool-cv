@@ -14,10 +14,10 @@
 
 ## Contacts
 - Mobile: +375 29 7682306
-- E-mail: nickf@tut.by
+- E-mail: [nickf@tut.by](nickf@tut.by)
 - Viber: +375297682306
 - WhatsApp: +375297682306
-- LinkedIn: https://www.linkedin.com/in/valentine-garbuzenko-46134341
+- LinkedIn: [My Linkedin Page](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
 
 ## My credo
 _"If something can be automated, it must be automated"._ <br>
