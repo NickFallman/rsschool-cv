@@ -99,9 +99,9 @@ todo: Andritz Belgosles RFID driveBOSS COSS (with links)
 ↑ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections above under construction._ ¯\\\_(ツ)\_/¯ ↑
 
 ## Graduation
-- **1984-1991** Belarusian State University, Radiophysics and Electronics Department. <br>Specialization - _radiophysics_
-- **2009** Cisco Network Academy. <br>Course alumni - _CCNA Exploration 4.0_
-- **2010** Cisco Partner Education Connection. <br>Qualification (Pearson VUE exam) - _Cisco SMBAM 650-177, SMBENG 650-195_
+- **1984-1991** [Belarusian State University](https://bsu.by/), [Radiophysics and Electronics Department](https://rfe.bsu.by/) . <br>Specialization - _radiophysics_
+- **2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - _CCNA Exploration 4.0_
+- **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - _Cisco SMBAM 650-177, SMBENG 650-195_
 
 ↓ ¯\\\_(ツ)\_/¯ _I'm sorry. The sections below under construction._ ¯\\\_(ツ)\_/¯ ↓
 
