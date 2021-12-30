@@ -14,7 +14,7 @@
 
 ## Contacts
 - Mobile: +375 29 7682306
-- E-mail: [nickf@tut.by](nickf@tut.by)
+- E-mail: [nickf@tut.by](mailto:nickf@tut.by)
 - Viber: +375297682306
 - WhatsApp: +375297682306
 - LinkedIn: [My Linkedin Page](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
