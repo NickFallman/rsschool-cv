@@ -6,8 +6,8 @@
 
 ## Contents
 
-* [Contacts](https://nickfallman.github.io/rsschool-cv/cv#contacts) <!-- https://nickfallman.github.io/rsschool-cv/cv#contacts -->
-* [My credo](https://nickfallman.github.io/rsschool-cv/cv#my-credo)
+* [Contacts](https://nickfallman.github.io/rsschool-cv/cv#contacts)
+* [Credo](https://nickfallman.github.io/rsschool-cv/cv#credo)
 * [Job status](https://nickfallman.github.io/rsschool-cv/cv#job-status)
 * [Milestones](https://nickfallman.github.io/rsschool-cv/cv#milestones)
 * [Skills and devtools](https://nickfallman.github.io/rsschool-cv/cv#skills-and-devtools)
@@ -26,7 +26,7 @@
 * WhatsApp: +375297682306
 * LinkedIn: [My Linkedin Page](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
 
-## My credo
+## Credo
 
 >*"If something can be automated, it must be automated".*
 >*"No limits for excellence".*
@@ -60,13 +60,27 @@ Looking for a new, productive, stable and interesting job.
 
 **2015** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. AWS cloud operations. Programming languages: C#. *Employer* – BFL Ltd. (Belarus).
 
-↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
-
 ## Skills and devtools
 
 ### Code develope tools
 
+* Borland Pascal (IDE, Pascal/Asm)
+* Borland C++ (IDE, C/C++/Asm)
+* Borland Delphi (IDE, Pascal)
+* Keil µVision (IDE, ASM/C)
+* [Denwer](http://www.denwer.ru) (Local web environment)
+* Microsoft Visual Studio (IDE, C/C++/C#/F#...)
+* ProGit (GIT, GIT GUI)
+* Nullsoft NSIS (Package maker)
+* Embarcadero RAD Studio (IDE, Pascal)
+
 ### Graphics Design and Publishing
+
+* CorelDRAW Graphics Suite
+* Adobe InDesign (Adobe PageMaker)
+* Adobe Photoshop
+* Adobe Acrobat
+* Adobe Premiere
 
 ## Code examples
 
@@ -100,6 +114,8 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
     }
 }
 ```
+
+↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
 
 ## Projects
 
