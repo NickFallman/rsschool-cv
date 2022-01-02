@@ -115,24 +115,47 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 }
 ```
 
-↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
-
 ## Projects
 
-todo: Andritz Belgosles RFID driveBOSS COSS (with links)
+2006 ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
 
-↑ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections above under construction.* ¯\\\_(ツ)\_/¯ ↑
+2003-2008 Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./cv-docs/ZernoMagAdv.pdf). [Exhibition booklet](./cv-docs/Expo2008-(booklet2p).pdf).
+
+2011 LD Systems company web-site. Sorry, but now it doesn't exist in the internet and can be deployed locally (on Denwer platform).
+
+2014 [Belgosles video surveillance system.](http://strazh.by/) Video surveillance system for early detection of the forest fire. C# programming.
+
+2015 [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
+
+2017 [driveBOSS TMS.](http://www.drivebosstms.com/) Logistic system for transportation of patients in New Jersey state. DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
+
+and much more…
 
 ## Graduation
 
-* **1984-1991** [Belarusian State University](https://bsu.by/), [Radiophysics and Electronics Department](https://rfe.bsu.by/) . <br>Specialization - _radiophysics_
+* **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/) . <br>Specialization - _radiophysics_
 * **2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - _CCNA Exploration 4.0_
 * **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - _Cisco SMBAM 650-177, SMBENG 650-195_
 
-↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
-
 ## Languages
 
-todo: add info according to the online test at Epam/BBC and practice
+### Language proficiency
+
+Russian - Native
+
+Belarusian - Intermediate
+
+English - A2, Pre-Intermediate (self-established level)
+
+* Epam ([A1 Elementary](./cv-docs/English-level-A1-Epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
+* BBC ([B1 Intermediate](./cv-docs/English-level-B1-BBC.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
+
+↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
+
+### Language practice
+
+**1993** Worked with American colleagues (native speaking) in the Belprint Ltd.
+
+todo: practice
 
 ↑ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections above under construction.* ¯\\\_(ツ)\_/¯ ↑
