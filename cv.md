@@ -1,6 +1,6 @@
 # Valentine Garbuzenko (@NickFallman)
 
-![My CV image](./cv-pics/ProfilePhotoCZ.jpg)
+![My CV image](./assets/cv-img/ProfilePhotoCZ.jpg)
 
 ***
 
@@ -119,7 +119,7 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 2006 ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
 
-2003-2008 Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./cv-docs/ZernoMagAdv.pdf). [Exhibition booklet](./cv-docs/Expo2008-(booklet2p).pdf).
+2003-2008 Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/cv-docs/ZernoMagAdv.pdf). [Exhibition booklet](./assets/cv-docs/Expo2008-(booklet2p).pdf).
 
 2011 LD Systems company web-site. Sorry, but now it doesn't exist in the internet and can be deployed locally (on Denwer platform).
 
@@ -147,8 +147,8 @@ Belarusian - Intermediate
 
 English - A2, Pre-Intermediate (self-established level)
 
-* Epam ([A1 Elementary](./cv-docs/English-level-A1-Epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
-* BBC ([B1 Intermediate](./cv-docs/English-level-B1-BBC.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
+* Epam ([A1 Elementary](./assets/cv-docs/English-level-A1-Epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
+* BBC ([B1 Intermediate](./assets/cv-docs/English-level-B1-BBC.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
 
 ↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
 
