@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: transparent;
 }
@@ -18,17 +22,17 @@ h3 {
 }
 
 .header {
-    max-width: 980px;
+    max-width: 960px;
     margin: auto;
 }
 
 .main {
-    max-width: 980px;
+    max-width: 960px;
     margin: auto;
 }
 
 .footer {
-    max-width: 980px;
+    max-width: 960px;
     margin: auto;
 }
 
@@ -43,8 +47,4 @@ h3 {
 
 #myvar {
     border: solid chocolate 2px ;
-}
-
-* {
-    box-sizing: border-box;
 }
