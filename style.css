@@ -1,9 +1,20 @@
 body {
-    background-color: transparent;   
+    background-color: transparent;
 }
 
 h1 {
-    color: chocolate ;
+    color: darkblue ;
+    font-family: Geneva, Tahoma, sans-serif;   
+}
+
+h2 {
+    color: rgb(89, 33, 141) ;
+    font-family: Geneva, Tahoma, sans-serif;   
+}
+
+h3 {
+    color: rgb(89, 33, 141) ;
+    font-family: Geneva, Tahoma, sans-serif;   
 }
 
 .marked {
@@ -12,4 +23,8 @@ h1 {
 
 #myvar {
     border: solid chocolate 2px ;
+}
+
+* {
+    box-sizing: border-box;
 }
