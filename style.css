@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    color: darkblue ;
+    color: rgb(89, 33, 141) ;
     font-family: Geneva, Tahoma, sans-serif;   
 }
 
@@ -34,6 +34,11 @@ h3 {
 
 .marked {
     color: chocolate;
+}
+
+.code-txt {
+    padding: 10px;
+    background-color: rgba(89, 33, 141, 0.05);
 }
 
 #myvar {
