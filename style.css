@@ -17,6 +17,21 @@ h3 {
     font-family: Geneva, Tahoma, sans-serif;   
 }
 
+.header {
+    max-width: 980px;
+    margin: auto;
+}
+
+.main {
+    max-width: 980px;
+    margin: auto;
+}
+
+.footer {
+    max-width: 980px;
+    margin: auto;
+}
+
 .marked {
     color: chocolate;
 }
