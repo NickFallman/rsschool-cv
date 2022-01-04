@@ -2,6 +2,6 @@
 
 ## Valentine Garbuzenko (@NickFallman) CV
 
-https://nickfallman.github.io/rsschool-cv/cv
+[My RS School CV](https://nickfallman.github.io/rsschool-cv/cv)
 
-https://nickfallman.github.io/rsschool-cv/
+[My RS School HTML CV](https://nickfallman.github.io/rsschool-cv/)
