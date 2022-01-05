@@ -24,7 +24,8 @@
 * E-mail: [nickf@tut.by](mailto:nickf@tut.by)
 * Viber: +375297682306
 * WhatsApp: +375297682306
-* LinkedIn: [My Linkedin Page](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
+* LinkedIn: [My Linkedin Pages](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
+* GitHub: [@NickFallman](https://github.com/NickFallman)
 
 ## Credo
 
@@ -39,26 +40,25 @@ Looking for a new, productive, stable and interesting job.
 
 ## Milestones
 
-**1991** Electronics engineer, system programmer. Programming languages: ASM i51, ASM i86, Borland Pascal, Delphi (Pascal), C. *Employer* – Scientific Reserch Institute of Applied Physical Problems (Belarus).
+**1991** Electronics engineer, system programmer. Programming languages: ASM i51, ASM i86, Borland Pascal, Delphi (Pascal), C. *Employer* – Scientific Reserch Institute of Applied Physical Problems (Belarus).
 
-**1993** Programmer, Graphics design, Image processing, Computer nesting for publishing. *Employer* – Belprint Ltd. (Belarus).
+**1993** Programmer, Graphics design, Image processing, Computer nesting for publishing. *Employer* – Belprint Ltd. (Belarus).
 
-**1996** Operator of digital printing machine. Image processing on Mac computer. *Employer* – Belaya Vezha Ltd. (Kodak, Belarus).
+**1996** Operator of digital printing machine. Image processing on Mac computer. *Employer* – Belaya Vezha Ltd. (Kodak, Belarus).
 
-**1996** Head of IT department, System administrator. Industrial Automation. Industrial communications. Programming languages: Delphi (Pascal), C, Asm. *Employer* – Aquar Ltd. (Belarus).
+**1996** Head of IT department, System administrator. Industrial Automation. Industrial communications. Programming languages: Delphi (Pascal), C, Asm. *Employer* – Aquar Ltd. (Belarus).
 
-**1998** Deputy Director, System administrator. Industrial Automation. Industrial communications. Programming languages: Delphi (Pascal), C, C++, Asm.
-*Employer* – Aquar Ltd. (Belarus).
+**1998** Deputy Director, System administrator. Industrial Automation. Industrial communications. Programming languages: Delphi (Pascal), C, C++, Asm. *Employer* – Aquar Ltd. (Belarus).
 
-**2001** Head of IT department, System administrator, DevOps operations. Industrial Automation. Industrial communications. Embedded microprocessor equipment. Brend developing, graphics design, prepress nesting, polygraphy for exibitions. Programming languages: Delphi (Pascal), C, C++, Asm. *Employer* – Aquar-System Ltd. (Belarus).
+**2001** Head of IT department, System administrator, DevOps operations. Industrial Automation. Industrial communications. Embedded microprocessor equipment. Brend developing, graphics design, prepress nesting, polygraphy for exibitions. Programming languages: Delphi (Pascal), C, C++, Asm. *Employer* – Aquar-System Ltd. (Belarus).
 
-**2006** Leading System Engineer, System administrator, DevOps operations. Industrial Automation. Industrial communications. Brend developing, graphics design, prepress nesting, polygraphy for exibitions. Programming languages: Delphi (Pascal), C, Asm. *Employer* – Aquar-System Ltd. (Belarus).
+**2006** Leading System Engineer, System administrator, DevOps operations. Industrial Automation. Industrial communications. Brend developing, graphics design, prepress nesting, polygraphy for exibitions. Programming languages: Delphi (Pascal), C, Asm. *Employer* – Aquar-System Ltd. (Belarus).
 
-**2009** Self-employed entrepreneur, Cisco Account Manager, Cisco Presales Engineer, Sales Manager. Trade in computer equipment. Website developing, brend developing, graphics design. *In cooperation with* – LD Systems company (Belarus).
+**2009** Self-employed entrepreneur, Cisco Account Manager, Cisco Presales Engineer, Sales Manager. Trade in computer equipment. Website developing, brend developing, graphics design. *In cooperation with* – LD Systems company (Belarus).
 
-**2014** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. Programming languages: C#. *Employer* – Belfortex Ltd. (Belarus).
+**2014** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. Programming languages: C#. *Employer* – Belfortex Ltd. (Belarus).
 
-**2015** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. AWS cloud operations. Programming languages: C#. *Employer* – BFL Ltd. (Belarus).
+**2015** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. AWS cloud operations. Programming languages: C#. *Employer* – BFL Ltd. (Belarus).
 
 ## Skills and devtools
 
@@ -71,6 +71,7 @@ Looking for a new, productive, stable and interesting job.
 * [Denwer](http://www.denwer.ru) (Local web environment)
 * Microsoft Visual Studio (IDE, C/C++/C#/F#...)
 * ProGit (GIT, GIT GUI)
+* Amazon AWS (Cloud services)
 * Nullsoft NSIS (Package maker)
 * Embarcadero RAD Studio (IDE, Pascal)
 
@@ -79,6 +80,7 @@ Looking for a new, productive, stable and interesting job.
 * CorelDRAW Graphics Suite
 * Adobe InDesign (Adobe PageMaker)
 * Adobe Photoshop
+* Joomla! CMS
 * Adobe Acrobat
 * Adobe Premiere
 
@@ -117,44 +119,52 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 ## Projects
 
-2006 ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
+2006 ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
 
-2003-2008 Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/cv-docs/ZernoMagAdv.pdf). [Exhibition booklet](./assets/cv-docs/Expo2008-(booklet2p).pdf).
+2003-2008 Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/cv-docs/ZernoMagAdv.pdf), [Catalog booklet](./assets/cv-docs/2004-Aquar-catalog-grinding.pdf), [Exhibition booklet](./assets/cv-docs/Expo2008-(booklet2p).pdf).
 
-2011 LD Systems company web-site. Sorry, but now it doesn't exist in the internet and can be deployed locally (on Denwer platform).
+2011 LD Systems company web-site. Sorry, but it doesn't exist in the internet now and can be deployed locally (on [Denwer](http://www.denwer.ru) platform).
 
-2014 [Belgosles video surveillance system.](http://strazh.by/) Video surveillance system for early detection of the forest fire. C# programming.
+2014 [Belgosles video surveillance system.](http://strazh.by/) Video surveillance system for early detection of the forest fire. C# programming.
 
-2015 [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
+2015 [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
 
-2017 [driveBOSS TMS.](http://www.drivebosstms.com/) Logistic system for transportation of patients in New Jersey state. DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
+2017 [driveBOSS TMS.](http://www.drivebosstms.com/) Logistic system for transportation of patients in New Jersey state. DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
 
 and much more…
 
 ## Graduation
 
-* **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/) . <br>Specialization - _radiophysics_
-* **2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - _CCNA Exploration 4.0_
-* **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - _Cisco SMBAM 650-177, SMBENG 650-195_
+* **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/) . <br>Specialization - *radiophysics*
+* **2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - *CCNA Exploration 4.0*
+* **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
 
 ## Languages
 
 ### Language proficiency
 
-Russian - Native
+1. Russian - Native
 
-Belarusian - Intermediate
+2. Belarusian - Intermediate
 
-English - A2, Pre-Intermediate (self-established level)
+3. English - A2, Pre-Intermediate (self-established level)
 
-* Epam ([A1 Elementary](./assets/cv-docs/English-level-A1-Epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
-* BBC ([B1 Intermediate](./assets/cv-docs/English-level-B1-BBC.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
-
-↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
+   * Epam ([A1 Elementary](./assets/cv-docs/English-level-A1-Epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
+   * BBC ([B1 Intermediate](./assets/cv-docs/English-level-B1-BBC.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
 
 ### Language practice
 
+Too episodical:
+
 **1993** Worked with American colleagues (native speaking) in the Belprint Ltd.
+
+**2005** Cooperative work with "ANDRITZ AG" (Austria) specialists as russian-english technical translator on CTMP production line startup, on "Kartontara" (Pulp and Board Mill), Maykop (Russia).
+
+**2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists on a joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
+
+**2014** Short travel in the USA.
+
+↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
 
 todo: practice
 
