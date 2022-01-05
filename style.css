@@ -6,89 +6,109 @@ html {
 }
 
 body {
+    padding: 0px;
+    margin: 0px;
     background-color: transparent ;
-    margin: 0;
 }
 h1 {
-    min-height: 150px;
-    margin: 0px 0px;
-    padding: 15px;
-    text-align: center;
-    white-space:nowrap ;
-    font-family: Geneva, Tahoma, sans-serif;
+    padding: 15px ;
+    margin: 0px ;
+    text-align: center ;
+    font-family: Tahoma, Arial, Geneva, sans-serif ;
     color: white ;
     background-color: rgb(89, 33, 141) ;
 }
 h2 {
-    font-family: Geneva, Tahoma, sans-serif;   
+    font-family: Tahoma, Arial, Geneva, sans-serif ;
     color: rgb(89, 33, 141) ;
 }
 h3 {
-    font-family: Geneva, Tahoma, sans-serif;   
+    font-family: Tahoma, Arial, Geneva, sans-serif ;   
     color: rgb(89, 33, 141) ;
 }
 a {
     text-decoration: none ;
-    color: rgb(89, 33, 141) ;
+    color: rgb(80, 30, 128) ;
     }
     a:visited {
-    color: rgb(89, 33, 141) ;
+    color: rgb(80, 30, 128) ;
     } 
     a:hover {
     text-decoration: underline ;
-    color: rgb(89, 33, 141) ;
+    color: rgb(80, 30, 128) ;
 }
-
 .header {
     max-width: 960px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -16px;
+}
+.header-decor {
+    max-width: 960px ;
+    min-height: 100px ;
+    margin-top: 0px;
+    margin-bottom: -40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(89, 33, 141) ;
+}
+
+.cv-photo {
+    max-width: 960px ;
+    min-height: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     background-color: white ;
 }
 .rounded {
-    position: relative;
-    top: -80px; left: 50px; z-index: 9999;
-    margin-bottom: -80px;
-    border-radius: 40px ;
+    position: relative ;
+    max-width: 960px ;
+    top: -50px ;
+    z-index: 9999 ;
+    margin-bottom: -30px ;
+    border-radius: 20px ;
     border: 5px solid rgb(146, 102, 187) ;
+    background-color: white ;
+}
+.plain-txt {
+    max-width: 960px ;
+    margin-left: auto ;
+    margin-right: auto ;
+    background-color: white;
 }
 .nav {
-    position: relative;
-    max-width: 254px;
-    left: 50px; z-index: 1;
-    text-align: left;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-    border-radius: 40px ;
+    max-width: 254px ;
+    margin-left: auto ;
+    margin-right: auto ;
+    text-align: left ;
+    font-family: Tahoma, Arial, Geneva, sans-serif ;
+    border-radius: 20px ;
     border: 5px solid rgb(146, 102, 187) ;
-    background-color: rgba(89, 33, 141, 0.05);
-}
-.padw20px {
-    padding: 0px 0px 0px 20px ;
+    background-color: rgba(89, 33, 141, 0.05) ;
 }
 .main {
     max-width: 960px;
     padding: 20px;
     margin: auto;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-    line-height: 1.5 ;
-    background-color: white ;
+    font-family: Tahoma, Arial, Geneva, sans-serif ;
+    line-height: 1.5;
+    background-color: white;
 }
-
+.code-txt {
+    padding: 15px;
+    overflow-x: auto;
+    background-color: rgba(89, 33, 141, 0.05);
+}
 .footer {
     display: flex;
     justify-content: center;
     align-items: center;
     max-width: 960px;
     margin: auto;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-family: Tahoma, Arial, Geneva, sans-serif ;
     color: white ;
     background-color: rgb(49, 17, 78) ;
-}
-.marked {
-    color: chocolate;
-}
-.code-txt {
-    padding: 10px;
-    background-color: rgba(89, 33, 141, 0.05);
 }
 
 #myvar {
