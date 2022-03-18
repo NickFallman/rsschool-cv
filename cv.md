@@ -88,7 +88,7 @@ Looking for a new, productive, stable and interesting job.
 
 ### Asm i51 example
 
-```assembler
+```text
 ; ╔═════════════════════════════════════════════════════════════╗
 ; ║ Init ADC.                                                   ║
 ; ╚═════════════════════════════════════════════════════════════╝
@@ -152,12 +152,12 @@ and much more…
 
 ### Language practice
 
-Too episodical:
+I've got too episodical practice in spoken and written English. The most of my practice - is reading technical documentation. The last one happens almost every day. Main practice cases:
 
-**1993** Worked with American colleagues (native speaking) in the Belprint Ltd.
+**1993** Work with American colleagues (native speaking) at Belprint Ltd. (Minsk, Belarus)
 
-**2005** Cooperative work with "ANDRITZ AG" (Austria) specialists as russian-english technical translator on CTMP production line startup, on "Kartontara" (Pulp and Board Mill), Maykop (Russia).
+**2005** Cooperative work with "ANDRITZ AG" (Austria) specialists as russian-english technical translator in CTMP production line startup, at "Kartontara" Pulp and Board Mill (Maykop, Russia).
 
-**2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists on a joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
+**2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists in the joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
 
 **2014** Short travel in the USA.
