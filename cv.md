@@ -74,6 +74,7 @@ Looking for a new, productive, stable and interesting job.
 * Amazon AWS (Cloud services)
 * Nullsoft NSIS (Package maker)
 * Embarcadero RAD Studio (IDE, Pascal)
+* Microsoft Visual Studio Code (Markdown, HTML, CSS, JS, Git)
 
 ### Graphics Design and Publishing
 
