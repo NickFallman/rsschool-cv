@@ -7,8 +7,8 @@
 ## Contents
 
 * [Contacts](https://nickfallman.github.io/rsschool-cv/cv#contacts)
-* [Credo](https://nickfallman.github.io/rsschool-cv/cv#credo)
 * [Job status](https://nickfallman.github.io/rsschool-cv/cv#job-status)
+* [Credo](https://nickfallman.github.io/rsschool-cv/cv#credo)
 * [Milestones](https://nickfallman.github.io/rsschool-cv/cv#milestones)
 * [Skills and devtools](https://nickfallman.github.io/rsschool-cv/cv#skills-and-devtools)
 * [Code examples](https://nickfallman.github.io/rsschool-cv/cv#code-examples)
@@ -27,16 +27,14 @@
 * LinkedIn: [My Linkedin Pages](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
 * GitHub: [@NickFallman](https://github.com/NickFallman)
 
+## Job status
+
+Ready for hiring. Looking for a new, productive, stable and interesting job.
+
 ## Credo
 
 >*"If something can be automated, it must be automated".*
 >*"No limits for excellence".*
-
-### Favorite movie
-
-## Job status
-
-Looking for a new, productive, stable and interesting job.
 
 ## Milestones
 
