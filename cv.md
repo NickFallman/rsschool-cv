@@ -119,26 +119,29 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 ## Projects
 
-2006 ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
+**2006** ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
 
-2003-2008 Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/cv-docs/ZernoMagAdv.pdf), [Catalog booklet](./assets/cv-docs/2004-Aquar-catalog-grinding.pdf), [Exhibition booklet](./assets/cv-docs/Expo2008-(booklet2p).pdf).
+**2003-2008** Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/cv-docs/ZernoMagAdv.pdf), [Catalog booklet](./assets/cv-docs/2004-Aquar-catalog-grinding.pdf), [Exhibition booklet](./assets/cv-docs/Expo2008-(booklet2p).pdf).
 
-2011 LD Systems company web-site. Sorry, but it doesn't exist in the internet now and can be deployed locally (on [Denwer](http://www.denwer.ru) platform).
+**2011** LD Systems company web-site. Sorry, but it doesn't exist in the internet now and can be deployed locally (on [Denwer](http://www.denwer.ru) platform).
 
-2014 [Belgosles video surveillance system.](http://strazh.by/) Video surveillance system for early detection of the forest fire. C# programming.
+**2014** [Belgosles video surveillance system.](http://strazh.by/) Video surveillance system for early detection of the forest fire. C# programming.
 
-2015 [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
+**2015** [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
 
-2017 [driveBOSS TMS.](http://www.drivebosstms.com/) Logistic system for transportation of patients in New Jersey state. DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
+**2017** [driveBOSS TMS.](http://www.drivebosstms.com/) Logistic system for transportation of patients in New Jersey state. DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
 
 and much more…
 
 ## Graduation
 
-* **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/). <br>Specialization - *radiophysics*
-* **2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - *CCNA Exploration 4.0*
-* **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
-* **2022** [RS School «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/). <br>Course alumni - [*JS/FE PRE-SCHOOL 2022Q1*](https://app.rs.school/certificate/3ptavuav)
+**1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/). <br>Specialization - *radiophysics*
+
+**2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - *CCNA Exploration 4.0*
+
+**2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
+
+**2022** [RS School «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/). <br>Course alumni - [*JS/FE PRE-SCHOOL 2022Q1*](https://app.rs.school/certificate/3ptavuav)
 
 ## Languages
 
