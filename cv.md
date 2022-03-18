@@ -135,20 +135,18 @@ and much more…
 
 ## Graduation
 
-* **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/) . <br>Specialization - *radiophysics*
+* **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/). <br>Specialization - *radiophysics*
 * **2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - *CCNA Exploration 4.0*
 * **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
+* **2022** [RS School «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/). <br>Course alumni - [*JS/FE PRE-SCHOOL 2022Q1*](https://app.rs.school/certificate/3ptavuav)
 
 ## Languages
 
 ### Language proficiency
 
 1. Russian - Native
-
 2. Belarusian - Intermediate
-
 3. English - A2, Pre-Intermediate (self-established level)
-
    * Epam ([A1 Elementary](./assets/cv-docs/English-level-A1-Epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
    * BBC ([B1 Intermediate](./assets/cv-docs/English-level-B1-BBC.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
 
@@ -163,9 +161,3 @@ Too episodical:
 **2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists on a joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
 
 **2014** Short travel in the USA.
-
-↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
-
-todo: practice
-
-↑ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections above under construction.* ¯\\\_(ツ)\_/¯ ↑
