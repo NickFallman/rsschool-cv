@@ -22,10 +22,11 @@
 
 * Mobile: +375 29 7682306
 * E-mail: [nickf@tut.by](mailto:nickf@tut.by)
+* Discord: ValentineG (@nickfallman)
 * Viber: +375297682306
 * WhatsApp: +375297682306
 * LinkedIn: [My Linkedin Pages](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
-* GitHub: [@NickFallman](https://github.com/NickFallman)
+* GitHub: [@NickFallman](https://github.com/nickfallman)
 
 ## Job status
 
