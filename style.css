@@ -39,13 +39,13 @@ a {
     color: rgb(80, 30, 128) ;
 }
 .header {
-    max-width: 960px;
+    max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: -16px;
 }
 .header-decor {
-    max-width: 960px ;
+    max-width: 1024px ;
     min-height: 100px ;
     margin-top: 0px;
     margin-bottom: -40px;
@@ -55,29 +55,41 @@ a {
 }
 
 .cv-photo {
-    max-width: 960px ;
+    max-width: 1024px ;
     min-height: 10px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     background-color: white ;
 }
+
 .rounded {
     position: relative ;
-    max-width: 960px ;
-    top: -50px ;
+    max-width: 1024px ;
+    top: -40px ;
     z-index: 9999 ;
     margin-bottom: -30px ;
     border-radius: 20px ;
     border: 5px solid rgb(146, 102, 187) ;
     background-color: white ;
 }
+
 .plain-txt {
-    max-width: 960px ;
+    max-width: 1024px ;
     margin-left: auto ;
     margin-right: auto ;
     background-color: white;
 }
+
+.marked-year {
+  font-weight: bold;
+  color: rgb(89, 33, 141);
+}
+
+.marked-text {
+  font-style: italic;
+}
+
 .nav {
     max-width: 254px ;
     margin-left: auto ;
@@ -89,7 +101,7 @@ a {
     background-color: rgba(89, 33, 141, 0.05) ;
 }
 .main {
-    max-width: 960px;
+    max-width: 1024px;
     padding: 20px;
     margin: auto;
     font-family: Tahoma, Arial, Geneva, sans-serif ;
@@ -105,13 +117,16 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 960px;
+    /* column-gap: 50px;
+    row-gap: 50px; */
+    max-width: 1024px;
     margin: auto;
     font-family: Tahoma, Arial, Geneva, sans-serif ;
     color: white ;
     background-color: rgb(49, 17, 78) ;
 }
-
+/* 
 #myvar {
     border: solid chocolate 2px ;
 }
+ */
