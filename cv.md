@@ -1,6 +1,6 @@
-# Valentine Garbuzenko (@NickFallman)
+# Valentine Garbuzenko CV (@NickFallman)
 
-![My CV image](./assets/cv-img/ProfilePhotoCZ.jpg)
+![My CV image](./assets/imgs/profile-photo.jpg)
 
 ***
 
@@ -120,9 +120,9 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 ## Projects
 
-**2006** ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
+**2005-2006** ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
 
-**2003-2008** Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/cv-docs/ZernoMagAdv.pdf), [Catalog booklet](./assets/cv-docs/2004-Aquar-catalog-grinding.pdf), [Exhibition booklet](./assets/cv-docs/Expo2008-(booklet2p).pdf).
+**2003-2008** Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/docs/zerno-mag-advertisement.pdf), [Catalog booklet](./assets/docs/2004-aquar-catalog-grinding.pdf), [Exhibition booklet](./assets/docs/expo2008-booklet-2page.pdf).
 
 **2011** LD Systems company web-site. Sorry, but it doesn't exist in the internet now and can be deployed locally (on [Denwer](http://www.denwer.ru) platform).
 
@@ -130,7 +130,7 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 **2015** [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
 
-**2017** [driveBOSS TMS.](http://www.drivebosstms.com/) Logistic system for transportation of patients in New Jersey state. DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
+**2017** [driveBOSS TMS.](https://www.drivebossllc.net/) Logistic system for transportation of patients in New Jersey state (USA). DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
 
 and much more…
 
@@ -138,7 +138,7 @@ and much more…
 
 **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/). <br>Specialization - *radiophysics*
 
-**2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - *CCNA Exploration 4.0*
+**2009** [Cisco Network Academy](https://www.netacad.com/), *remark: use VPN to access this site from Belarus*. <br>Course alumni - *CCNA Exploration 4.0*
 
 **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
 
@@ -151,17 +151,17 @@ and much more…
 1. Russian - Native
 2. Belarusian - Intermediate
 3. English - A2, Pre-Intermediate (self-established level)
-   * Epam ([A1 Elementary](./assets/cv-docs/English-level-A1-Epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
-   * BBC ([B1 Intermediate](./assets/cv-docs/English-level-B1-BBC.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
+   * Epam ([A1 Elementary](./assets/docs/english-level-a1-epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
+   * BBC ([B1 Intermediate](./assets/docs/english-level-b1-bbc.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
 
 ### Language practice
 
-I've got too episodical practice in spoken and written English. The most of my practice - is reading technical documentation. The last one happens almost every day. Main practice cases:
+I've got too episodical practice in spoken and written English. The most of my practice - is reading technical documentation. The last one happens almost every day. There are my main practice cases:
 
 **1993** Work with American colleagues (native speaking) at Belprint Ltd. (Minsk, Belarus)
 
-**2005** Cooperative work with "ANDRITZ AG" (Austria) specialists as russian-english technical translator in CTMP production line startup, at "Kartontara" Pulp and Board Mill (Maykop, Russia).
+**2005** Cooperative work with "ANDRITZ AG" (Austria) specialists as russian-english technical translator on CTMP production line startup, at "Kartontara" Pulp and Board Mill (Maykop, Russia).
 
-**2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists in the joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
+**2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists on a joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
 
 **2014** Short travel in the USA.
