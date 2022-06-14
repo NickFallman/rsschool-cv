@@ -1,0 +1,182 @@
+/* Sans serif family */
+@font-face {
+  font-family: "Lato";
+  src: url("./assets/fonts/Lato-Regular.ttf");
+  /* font-weight: 400; */
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("./assets/fonts/Roboto-Regular.ttf");
+  /* font-weight: 400; */
+}
+
+@font-face {
+  font-family: "Tahoma";
+  src: url("./assets/fonts/Tahoma.ttf");
+  /* font-weight: 400; */
+}
+
+@font-face {
+  font-family: "TahomaBold";
+  src: url("./assets/fonts/Tahoma-Bold.ttf");
+  /* font-weight: 700; */
+}
+
+/* Serif family */
+
+/* Monospace family */
+@font-face {
+  font-family: "RobotoMono";
+  src: url("./assets/fonts/RobotoMono-Regular.ttf");
+  /* font-weight: 400; */
+}
+
+/* Decorative family */
+@font-face {
+  font-family: "Architects";
+  src: url("./assets/fonts//ArchitectsDaughter-Regular.ttf");
+  /* font-weight: 400; */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Lato", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
+  background-color: rgb(12, 6, 19);
+  /* background-color: transparent; */
+}
+
+h1,
+h2,
+h3 
+{
+  font-family: "TahomaBold", sans-serif;
+}
+
+h1 {
+  padding: 15px;
+  margin: 0px;
+  text-align: center;
+  color: white;
+  background-color: rgb(89, 33, 141);
+}
+
+h2,
+h3 {
+  color: rgb(89, 33, 141);
+}
+
+a {
+  text-decoration: none ;
+  color: rgb(89, 33, 141);
+  /* color: rgb(80, 30, 128); */
+}
+a:visited {
+  color: rgb(89, 33, 141);
+} 
+a:hover {
+  text-decoration: underline;
+  color: rgb(89, 33, 141);
+}
+
+.header {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -16px;
+}
+
+.header-decor {
+  max-width: 1024px;
+  min-height: 100px;
+  margin-top: 0px;
+  margin-bottom: -40px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(89, 33, 141);
+}
+
+.cv-photo {
+  max-width: 1024px;
+  /* min-height: 10px; */
+  margin: 0 auto;
+  /* margin-right: auto; */
+  text-align: center;
+  background-color: white ;
+}
+
+.rounded {
+  position: relative;
+  max-width: 1024px;
+  top: -40px;
+  z-index: 9999;
+  margin-bottom: -30px;
+  border-radius: 20px;
+  border: 5px solid rgb(146, 102, 187);
+}
+
+.plain-txt {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  /* font-family: "Lato", sans-serif; */
+  background-color: white;
+}
+
+.marked-year {
+  /* font-family: "Lato", sans-serif; */
+  font-weight: bold;
+  color: rgb(89, 33, 141);
+}
+
+.marked-text {
+  /* font-family: "Lato", sans-serif; */
+  font-style: italic;
+}
+
+.nav {
+  max-width: 254px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  border-radius: 20px;
+  border: 5px solid rgb(146, 102, 187);
+  background-color: rgba(89, 33, 141, 0.05);
+}
+
+.main {
+  max-width: 1024px;
+  padding: 20px;
+  margin: auto;
+  line-height: 1.5;
+  background-color: white;
+}
+
+.code-txt {
+  padding: 15px;
+  overflow-x: auto;
+  background-color: rgba(89, 33, 141, 0.05);
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+  max-width: 1024px;
+  margin: 0 auto;
+  font-family: "Architects", sans-serif;
+  color: rgba(255, 255, 255, 0.3) ;
+  background-color: rgb(49, 17, 78) ;
+}
+/* 
+#myvar {
+    border: solid chocolate 2px ;
+}
+ */
