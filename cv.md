@@ -1,14 +1,14 @@
-# Valentine Garbuzenko (@NickFallman)
+# Valentine Garbuzenko CV (@NickFallman)
 
-![My CV image](./assets/cv-img/ProfilePhotoCZ.jpg)
+![My CV image](./assets/imgs/profile-photo.jpg)
 
 ***
 
 ## Contents
 
 * [Contacts](https://nickfallman.github.io/rsschool-cv/cv#contacts)
-* [Credo](https://nickfallman.github.io/rsschool-cv/cv#credo)
 * [Job status](https://nickfallman.github.io/rsschool-cv/cv#job-status)
+* [Credo](https://nickfallman.github.io/rsschool-cv/cv#credo)
 * [Milestones](https://nickfallman.github.io/rsschool-cv/cv#milestones)
 * [Skills and devtools](https://nickfallman.github.io/rsschool-cv/cv#skills-and-devtools)
 * [Code examples](https://nickfallman.github.io/rsschool-cv/cv#code-examples)
@@ -20,23 +20,23 @@
 
 ## Contacts
 
-* Mobile: +375 29 7682306
+* Mobile: [Call me](tel:+375297682306)
 * E-mail: [nickf@tut.by](mailto:nickf@tut.by)
-* Viber: +375297682306
-* WhatsApp: +375297682306
+* Viber: [Contact me](viber://chat?number=%2B375297682306)
+* WhatsApp: [Contact me](https://wa.me/375297682306)
+* Discord: [at RS School server](https://discordapp.com/users/516715744646660106)
+* Telegram: [Contact me](https://t.me/nickfallman)
 * LinkedIn: [My Linkedin Pages](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
-* GitHub: [@NickFallman](https://github.com/NickFallman)
+* GitHub: [@NickFallman](https://github.com/nickfallman)
+
+## Job status
+
+Ready for hiring. Looking for a new, productive, stable and interesting job.
 
 ## Credo
 
 >*"If something can be automated, it must be automated".*
 >*"No limits for excellence".*
-
-### Favorite movie
-
-## Job status
-
-Looking for a new, productive, stable and interesting job.
 
 ## Milestones
 
@@ -74,6 +74,7 @@ Looking for a new, productive, stable and interesting job.
 * Amazon AWS (Cloud services)
 * Nullsoft NSIS (Package maker)
 * Embarcadero RAD Studio (IDE, Pascal)
+* Microsoft Visual Studio Code (Markdown, HTML, CSS, JS, Git)
 
 ### Graphics Design and Publishing
 
@@ -88,7 +89,7 @@ Looking for a new, productive, stable and interesting job.
 
 ### Asm i51 example
 
-```assembler
+```text
 ; ╔═════════════════════════════════════════════════════════════╗
 ; ║ Init ADC.                                                   ║
 ; ╚═════════════════════════════════════════════════════════════╝
@@ -119,53 +120,48 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 ## Projects
 
-2006 ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
+**2005-2006** ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
 
-2003-2008 Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/cv-docs/ZernoMagAdv.pdf), [Catalog booklet](./assets/cv-docs/2004-Aquar-catalog-grinding.pdf), [Exhibition booklet](./assets/cv-docs/Expo2008-(booklet2p).pdf).
+**2003-2008** Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/docs/zerno-mag-advertisement.pdf), [Catalog booklet](./assets/docs/2004-aquar-catalog-grinding.pdf), [Exhibition booklet](./assets/docs/expo2008-booklet-2page.pdf).
 
-2011 LD Systems company web-site. Sorry, but it doesn't exist in the internet now and can be deployed locally (on [Denwer](http://www.denwer.ru) platform).
+**2011** LD Systems company web-site. Sorry, but it doesn't exist in the internet now and can be deployed locally (on [Denwer](http://www.denwer.ru) platform).
 
-2014 [Belgosles video surveillance system.](http://strazh.by/) Video surveillance system for early detection of the forest fire. C# programming.
+**2014** [Belgosles video surveillance system.](http://strazh.by/) Video surveillance system for early detection of the forest fire. C# programming.
 
-2015 [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
+**2015** [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
 
-2017 [driveBOSS TMS.](http://www.drivebosstms.com/) Logistic system for transportation of patients in New Jersey state. DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
+**2017** [driveBOSS TMS.](https://www.drivebossllc.net/) Logistic system for transportation of patients in New Jersey state (USA). DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
 
 and much more…
 
 ## Graduation
 
-* **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/) . <br>Specialization - *radiophysics*
-* **2009** [Cisco Network Academy](https://www.netacad.com/). <br>Course alumni - *CCNA Exploration 4.0*
-* **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
+**1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/). <br>Specialization - *radiophysics*
+
+**2009** [Cisco Network Academy](https://www.netacad.com/), *remark: use VPN to access this site from Belarus*. <br>Course alumni - *CCNA Exploration 4.0*
+
+**2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
+
+**2022** [RS School «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/). <br>Course alumni - [*JS/FE PRE-SCHOOL 2022Q1*](https://app.rs.school/certificate/3ptavuav)
 
 ## Languages
 
 ### Language proficiency
 
 1. Russian - Native
-
 2. Belarusian - Intermediate
-
 3. English - A2, Pre-Intermediate (self-established level)
-
-   * Epam ([A1 Elementary](./assets/cv-docs/English-level-A1-Epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
-   * BBC ([B1 Intermediate](./assets/cv-docs/English-level-B1-BBC.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
+   * Epam ([A1 Elementary](./assets/docs/english-level-a1-epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
+   * BBC ([B1 Intermediate](./assets/docs/english-level-b1-bbc.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
 
 ### Language practice
 
-Too episodical:
+I've got too episodical practice in spoken and written English. The most of my practice - is reading technical documentation. The last one happens almost every day. There are my main practice cases:
 
-**1993** Worked with American colleagues (native speaking) in the Belprint Ltd.
+**1993** Work with American colleagues (native speaking) at Belprint Ltd. (Minsk, Belarus)
 
-**2005** Cooperative work with "ANDRITZ AG" (Austria) specialists as russian-english technical translator on CTMP production line startup, on "Kartontara" (Pulp and Board Mill), Maykop (Russia).
+**2005** Cooperative work with "ANDRITZ AG" (Austria) specialists as russian-english technical translator on CTMP production line startup, at "Kartontara" Pulp and Board Mill (Maykop, Russia).
 
 **2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists on a joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
 
 **2014** Short travel in the USA.
-
-↓ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections below under construction.* ¯\\\_(ツ)\_/¯ ↓
-
-todo: practice
-
-↑ ¯\\\_(ツ)\_/¯ *I'm sorry. The sections above under construction.* ¯\\\_(ツ)\_/¯ ↑
