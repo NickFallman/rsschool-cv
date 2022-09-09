@@ -21,6 +21,9 @@ Ready for hiring. Looking for a new, productive, stable and interesting job.
 
 ## Credo
 
+>*"If something can be automated, it must be automated".*
+>*"No limits for excellence".*
+
 ## Milestones
 
 ## Skills and devtools
