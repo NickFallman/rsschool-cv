@@ -17,6 +17,8 @@
 
 ## Job status
 
+Ready for hiring. Looking for a new, productive, stable and interesting job.
+
 ## Credo
 
 ## Milestones
