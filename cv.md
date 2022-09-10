@@ -50,6 +50,18 @@ Ready for hiring. Looking for a new, productive, stable and interesting job.
 
 ### Code develope tools
 
+* Borland Pascal (IDE, Pascal/Asm)
+* Borland C++ (IDE, C/C++/Asm)
+* Borland Delphi (IDE, Pascal)
+* Keil µVision (IDE, ASM/C)
+* [Denwer](http://www.denwer.ru) (Local web environment)
+* Microsoft Visual Studio (IDE, C/C++/C#/F#...)
+* ProGit (GIT, GIT GUI)
+* Amazon AWS (Cloud services)
+* Nullsoft NSIS (Package maker)
+* Embarcadero RAD Studio (IDE, Pascal)
+* Microsoft Visual Studio Code (Markdown, HTML, CSS, JS, Git)
+
 ### Graphics Design and Publishing
 
 ## Code examples
