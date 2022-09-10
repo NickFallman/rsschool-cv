@@ -4,6 +4,20 @@
 
 ***
 
+## Contents
+
+* [Contacts](https://nickfallman.github.io/rsschool-cv/cv#contacts)
+* [Job status](https://nickfallman.github.io/rsschool-cv/cv#job-status)
+* [Credo](https://nickfallman.github.io/rsschool-cv/cv#credo)
+* [Milestones](https://nickfallman.github.io/rsschool-cv/cv#milestones)
+* [Skills and devtools](https://nickfallman.github.io/rsschool-cv/cv#skills-and-devtools)
+* [Code examples](https://nickfallman.github.io/rsschool-cv/cv#code-examples)
+* [Projects](https://nickfallman.github.io/rsschool-cv/cv#projects)
+* [Graduation](https://nickfallman.github.io/rsschool-cv/cv#graduation)
+* [Languages](https://nickfallman.github.io/rsschool-cv/cv#languages)
+
+***
+
 ## Contacts
 
 * Mobile: [Call me](tel:+375297682306)
