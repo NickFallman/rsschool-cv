@@ -135,4 +135,20 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 ### Language proficiency
 
+1. Russian - Native
+2. Belarusian - Intermediate
+3. English - A2, Pre-Intermediate (self-established level)
+   * Epam ([A1 Elementary](./assets/docs/english-level-a1-epam.pdf)) - according to [Epam online test](https://training.epam.com/UserProfile#!/Main/?lang=en)
+   * BBC ([B1 Intermediate](./assets/docs/english-level-b1-bbc.pdf)) - according to [BBC online test](https://www.bbc.co.uk/learningenglish/course/test-your-level)
+
 ### Language practice
+
+I've got too episodical practice in spoken and written English. The most of my practice - is reading technical documentation. The last one happens almost every day. There are my main practice cases:
+
+**1993** Work with American colleagues (native speaking) at Belprint Ltd. (Minsk, Belarus)
+
+**2005** Cooperative work with "ANDRITZ AG" (Austria) specialists as russian-english technical translator on CTMP production line startup, at "Kartontara" Pulp and Board Mill (Maykop, Russia).
+
+**2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists on a joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
+
+**2014** Short travel in the USA.
