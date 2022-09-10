@@ -61,6 +61,7 @@ Ready for hiring. Looking for a new, productive, stable and interesting job.
 * Nullsoft NSIS (Package maker)
 * Embarcadero RAD Studio (IDE, Pascal)
 * Microsoft Visual Studio Code (Markdown, HTML, CSS, JS, Git)
+* JS (Codewars rank) - ![Codewars JS NickFallman](https://www.codewars.com/users/rsschool_NickFallman/badges/small)
 
 ### Graphics Design and Publishing
 
