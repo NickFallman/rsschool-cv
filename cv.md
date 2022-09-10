@@ -64,6 +64,13 @@ Ready for hiring. Looking for a new, productive, stable and interesting job.
 
 ### Graphics Design and Publishing
 
+* CorelDRAW Graphics Suite
+* Adobe InDesign (Adobe PageMaker)
+* Adobe Photoshop
+* Joomla! CMS
+* Adobe Acrobat
+* Adobe Premiere
+
 ## Code examples
 
 ### Asm i51 example
