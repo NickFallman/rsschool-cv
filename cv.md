@@ -76,7 +76,34 @@ Ready for hiring. Looking for a new, productive, stable and interesting job.
 
 ### Asm i51 example
 
+```assembler
+; ╔═════════════════════════════════════════════════════════════╗
+; ║ Init ADC.                                                   ║
+; ╚═════════════════════════════════════════════════════════════╝
+ADC_Init:
+    clr   ADCCLK             ; Set external synchronization
+    setb  ADCDRDY            ; Enable analog input
+    mov   R6,#00100000b      ; Set background calibration mode
+    mov   R5,#10010000b      ; Set input data size (16)24 bit
+    mov   R4,#11000011b
+    acall S_Ctrl_write
+    acall S_Data24_read
+    ret
+```
+
 ### C# example
+
+```C#
+public static void LoadCamerasDb(List<CameraInfo> cameras)
+{
+    var NumberFormat = BelfortexFormats.GetNumberFormat();
+    var rows = BelfortexSql.SqlSelect("SELECT id FROM cameras");
+    foreach (var camera in (from DataRowView row in rows select new CameraInfo((int)row["id"], NumberFormat)))
+    {
+        cameras.Add(camera);
+    }
+}
+```
 
 ## Projects
 
