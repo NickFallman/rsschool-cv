@@ -123,6 +123,14 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 ## Graduation
 
+**1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/). <br>Specialization - *radiophysics*
+
+**2009** [Cisco Network Academy](https://www.netacad.com/), *remark: use VPN to access this site from Belarus*. <br>Course alumni - *CCNA Exploration 4.0*
+
+**2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
+
+**2022** [RS School «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/). <br>Course alumnus - [*JS/FE PRE-SCHOOL 2022Q2*](https://app.rs.school/certificate/53jg8ulr)
+
 ## Languages
 
 ### Language proficiency
