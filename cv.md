@@ -107,6 +107,20 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 ## Projects
 
+**2005-2006** ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
+
+**2003-2008** Developing brand "Aquar-System". Preparing and publish many advertiment and exibition materials. [Magazine advertisement](./assets/docs/zerno-mag-advertisement.pdf), [Catalog booklet](./assets/docs/2004-aquar-catalog-grinding.pdf), [Exhibition booklet](./assets/docs/expo2008-booklet-2page.pdf).
+
+**2011** LD Systems company web-site. Sorry, but it doesn't exist in the internet now and can be deployed locally (on [Denwer](http://www.denwer.ru) platform).
+
+**2014** [Belgosles video surveillance system.](http://strazh.by/) Video surveillance system for early detection of the forest fire. C# programming.
+
+**2015** [RFID marking of fur products.](https://asklt.datamark.by/praca.html) Automation of programming and printing RFID tags on Zebra ZXP RFID printers. C# programming, devops operations, system administration.
+
+**2017** [driveBOSS TMS.](https://www.drivebossllc.net/) Logistic system for transportation of patients in New Jersey state (USA). DevOps operations, Web- and Backend- services deployment on AWS cloud platform, system administration.
+
+*and much more…*
+
 ## Graduation
 
 ## Languages
