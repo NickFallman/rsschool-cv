@@ -21,7 +21,7 @@
 ## Contacts
 
 * Mobile: [Call me](tel:+375297682306)
-* ![Email icon](./assets/imgs/logos/icon-email-square-21.png) E-mail: [E-mail me](mailto:nickf@tut.by)
+* ![Email icon](./assets/imgs/logos/icon-email-square-20.png) E-mail: [E-mail me](mailto:nickf@tut.by)
 * Viber: [Contact me](viber://chat?number=%2B375297682306)
 * WhatsApp: [Contact me](https://wa.me/375297682306)
 * Discord: [at RS School server](https://discordapp.com/users/516715744646660106)
