@@ -31,14 +31,20 @@
 | ![Linkedin icon](./assets/imgs/logos/icon-linkedin-square-20.png) | LinkedIn: [My Linkedin Pages](https://www.linkedin.com/in/valentine-garbuzenko-46134341/) |
 | ![GitHub icon](./assets/imgs/logos/icon-github-mark-circle-20.png) | GitHub: [@NickFallman](https://github.com/nickfallman) |
 
+[▲ To top](cv#contents)
+
 ## Job status
 
 Ready for hiring. Looking for a new, productive, stable and interesting job.
+
+[▲ To top](cv#contents)
 
 ## Credo
 
 >*"If something can be automated, it must be automated".*
 >*"No limits for excellence".*
+
+[▲ To top](cv#contents)
 
 ## Milestones
 
@@ -61,6 +67,8 @@ Ready for hiring. Looking for a new, productive, stable and interesting job.
 **2014** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. Programming languages: C#. *Employer* – Belfortex Ltd. (Belarus).
 
 **2015** Senior Software Programmer, System administrator, DevOps operations. Special purpose software development. Cryptographic protection of software. IT infrastructure аdministration. AWS cloud operations. Programming languages: C#. *Employer* – BFL Ltd. (Belarus).
+
+[▲ To top](cv#contents)
 
 ## Skills and devtools
 
@@ -87,6 +95,8 @@ Ready for hiring. Looking for a new, productive, stable and interesting job.
 * Joomla! CMS
 * Adobe Acrobat
 * Adobe Premiere
+
+[▲ To top](cv#contents)
 
 ## Code examples
 
@@ -121,6 +131,8 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 }
 ```
 
+[▲ To top](cv#contents)
+
 ## Projects
 
 **2005-2006** ["Kartontara" (Pulp and Board Mill).](http://sftgroup.ru/en/about/enterprises/kartontara-eng/) Startup new CTMP production line in the cardboard pulp preparation workshop on "Kartontara" (Pulp and Board Mill), Maykop (Russia). In cooperation with "ANDRITZ AG" (Austria) specialists and engineers. Acting as startup electronics engineer and technical translator (russian/english).
@@ -137,6 +149,8 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 
 *and much more…*
 
+[▲ To top](cv#contents)
+
 ## Graduation
 
 **1984-1991** [Belarusian State University](https://bsu.by/), [Faculty of Radiophysics and Electronics](https://rfe.bsu.by/). <br>Specialization - *radiophysics*
@@ -146,6 +160,8 @@ public static void LoadCamerasDb(List<CameraInfo> cameras)
 **2010** [Cisco Partner Education Connection](https://www.cisco.com/c/en/us/training-events.html). <br>Qualification ([Pearson VUE](https://home.pearsonvue.com/) exam) - *Cisco SMBAM 650-177, SMBENG 650-195*
 
 **2022** [RS School «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/). <br>Course alumnus - [*JS/FE PRE-SCHOOL 2022Q2*](https://app.rs.school/certificate/53jg8ulr)
+
+[▲ To top](cv#contents)
 
 ## Languages
 
@@ -168,3 +184,5 @@ I've got too episodical practice in spoken and written English. The most of my p
 **2007** Cooperative work with "HGH Gaßmann" (Germany) spesialists on a joint project at the Pulp and Paper Mill in Kherson region (Ukraine).
 
 **2014** Short travel in the USA.
+
+[▲ To top](cv#contents)
