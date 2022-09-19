@@ -20,14 +20,16 @@
 
 ## Contacts
 
-* Mobile: [Call me](tel:+375297682306)
-* E-mail: [E-mail me](mailto:nickf@tut.by)
-* Viber: [Contact me](viber://chat?number=%2B375297682306)
-* WhatsApp: [Contact me](https://wa.me/375297682306)
-* Discord: [at RS School server](https://discordapp.com/users/516715744646660106)
-* Telegram: [Contact me](https://t.me/nickfallman)
-* LinkedIn: [My Linkedin Pages](https://www.linkedin.com/in/valentine-garbuzenko-46134341/)
-* GitHub: [@NickFallman](https://github.com/nickfallman)
+| | |
+| - | - |
+| ![Phone icon](./assets/imgs/logos/icon-phone-square-20.png) | Mobile: [Call me](tel:+375297682306) |
+| ![Email icon](./assets/imgs/logos/icon-email-square-20.png) | E-mail: [E-mail me](mailto:nickf@tut.by) |
+| ![Viber icon](./assets/imgs/logos/icon-viber-circle-20.png) | Viber: [Contact me](viber://chat?number=%2B375297682306) |
+| ![WhatsApp icon](./assets/imgs/logos/icon-whatsapp-circle-20.png) | WhatsApp: [Contact me](https://wa.me/375297682306) |
+| ![Discord icon](./assets/imgs/logos/icon-discord-mark-circle-20.png) | Discord: [at RS School server](https://discordapp.com/users/516715744646660106) |
+| ![Telegram icon](./assets/imgs/logos/icon-telegram-circle-20.png) | Telegram: [Contact me](https://t.me/nickfallman) |
+| ![Linkedin icon](./assets/imgs/logos/icon-linkedin-square-20.png) | LinkedIn: [My Linkedin Pages](https://www.linkedin.com/in/valentine-garbuzenko-46134341/) |
+| ![GitHub icon](./assets/imgs/logos/icon-github-mark-circle-20.png) | GitHub: [@NickFallman](https://github.com/nickfallman) |
 
 ## Job status
 
